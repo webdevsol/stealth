@@ -1,0 +1,1 @@
+The "time trial" mindset is best for eliminating most distractions in your&nbsp;race.<div>Accuracy in pace becomes the main focus in producing your best result for your&nbsp;race on that particular day.</div><div>Chasing some dream performance is the wasteland of the natural runner.</div>

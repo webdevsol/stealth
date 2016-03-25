@@ -1,0 +1,1 @@
+Is it medium paced?<div>This doesn't happen often.<br><div>He just gets as comfortable a position as he&nbsp;can and&nbsp;runs relaxed.</div><div>He then tries&nbsp;to make his&nbsp;move before anyone else makes theirs.</div>  </div>

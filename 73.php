@@ -1,0 +1,1 @@
+A quick "philosophical" break before&nbsp;getting to more details on HOW to race.<div>I know you runners eat this stuff up, I've been to your meets, I've seen the slogans on your t-shirts.</div>

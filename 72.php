@@ -1,0 +1,1 @@
+Stealth racing is both easier and harder.<div>Easier when it is supposed to be.</div><div>Harder when you want it to be.</div><div>It's just different.</div><div>And better.</div><div>And NOT natural.</div>

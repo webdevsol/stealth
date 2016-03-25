@@ -1,0 +1,1 @@
+By sprinting his discomfort away, he is now flying along in an adrenaline-fueled stampede with a hoard of fellow&nbsp;competitors who are usually wearing spikes!

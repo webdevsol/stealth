@@ -1,0 +1,1 @@
+<div>We don't need idiots screwing up stealth racing because it sounds cool.</div><div>What part of the word "stealth" isn't&nbsp;understood?</div><div>If you don't know what the word "stealth"&nbsp;means, google it.</div>

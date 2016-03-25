@@ -1,0 +1,1 @@
+The stealth racer can hold off his challengers because he has the ENERGY to do it.<div>Energy to accelerate is the hidden benefit (hidden to natural runners) of slowing the pace of a race.&nbsp;</div>

@@ -1,0 +1,1 @@
+And since you have "settled in" at that effort level (a gradually slowing pace), your second lap isn't even a 35.6, but a 37 (which gives you your 71.)<div>You increased your effort on the third 200, which maintained your 37-second-pace, then kicked in with a 36.</div><div>34 + 37 + 37 + 36 = 144 = 2:24.</div><div>Scenario explained.</div>

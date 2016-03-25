@@ -1,0 +1,1 @@
+You usually can't know what it is costing somebody to LOOK better than you. &nbsp;<div>How much are they going into debt to have those things that you don't have?</div>

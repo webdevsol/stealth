@@ -1,0 +1,1 @@
+<div>Athletes bring in habits from other sports to running.  <br></div><div>Some work. &nbsp;A lot don't.</div><div>The biggest one that won't work is aggressiveness.</div><div>Concentration and relaxation are the way to go.</div>

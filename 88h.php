@@ -1,0 +1,1 @@
+Your ability compared&nbsp;to the other runners in your race&nbsp;is where the greatest resistance to stealth racing can&nbsp;occur.<div>If you are the best runner, all the attention focuses on you.</div><div>No one criticizes the winner's strategy.</div><div>So if you aren't one of&nbsp;the best runners, if you are the OTHER&nbsp;90%, stealth racing is your golden ticket.</div>

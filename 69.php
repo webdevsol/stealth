@@ -1,0 +1,1 @@
+<div>A stealth racer starts with striding.</div><div>A stealth racer finishes&nbsp;with the pedal to the floor.</div><div>A stealth racer times it&nbsp;so that he hits the finish line as he has reduced himself to running on "fumes."</div><div>How slow can you push your "gas pedal" to the floor?</div>

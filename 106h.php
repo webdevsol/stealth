@@ -1,0 +1,1 @@
+It is up to you whether you "wake" the other runners as you go by.<div>In the middle of the race it doesn't make much difference, they don't have the energy to stay with you very long anyway.</div>

@@ -1,0 +1,1 @@
+Near the end of the race, it is a different scenario.<div>The other runner may have slowed so much that he has recovered from fatigue.</div><div>You decide whether passing quickly or passing slowly is the better option.</div>

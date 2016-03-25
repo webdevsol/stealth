@@ -1,0 +1,1 @@
+The stealth racer with the less-than-great ability will find that a surprising number of the slowest&nbsp;runners will start FASTER than his race pace.<div>It LOOKS&nbsp;wrong, but he KNOWS he&nbsp;is&nbsp;right.</div>

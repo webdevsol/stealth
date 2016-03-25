@@ -1,0 +1,1 @@
+In the race, what develops is a phenomena where everyone chases the runner in front of them for as long as they can.<div>This results in&nbsp;individual runners just dropping off the back of the pack due to fatigue.</div>

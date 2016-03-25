@@ -1,0 +1,1 @@
+How does the 2:24 runner&nbsp;make the adjustment to a&nbsp;stealth race?<div>Run the first 100 in 18 seconds, not 16.2.</div><div>That 1.8 seconds puts you well back in&nbsp;the pack.</div><div>Relax. &nbsp;Keep running 18s as you pick off one or two&nbsp;runners.</div>

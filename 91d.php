@@ -1,0 +1,1 @@
+The natural&nbsp;runner who is the most extremely affected by this situation will experience not only the scenario of being passed by other runners, but the ugly scenario of being passed by a LOT&nbsp;of other runners.<div>Since natural&nbsp;runners are ruled by what they see, finishing the&nbsp;rest of the race like&nbsp;this&nbsp;can be quite a painful ordeal.</div>

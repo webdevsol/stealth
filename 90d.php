@@ -1,0 +1,1 @@
+The STEALTH&nbsp;racer, aware of this factor, watches the "lemmings"&nbsp;run away quickly&nbsp;to their collective demise.<div>A welcome diversion from the normal&nbsp;stealth race&nbsp;is there to be capitalized on, whether it is a matter of miles, or just a few&nbsp;hundred meters.</div>

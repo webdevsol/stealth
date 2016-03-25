@@ -1,0 +1,1 @@
+Burn out is real in any competitor's career.<div>Knowing how to go all out at an even pace for the ultimate race is a great asset.</div><div>Knowing when good enough is good enough makes for the longer career.</div><div>Medical situations eventually take their toll.&nbsp;&nbsp;It isn't worth it.</div><div>Be careful if this could be you.</div>

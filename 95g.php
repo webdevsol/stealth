@@ -1,0 +1,1 @@
+But if you wish to stay with your stealth racing in a more pure form (pacing even or negative-splitting,) you may just wear down your coach with your stubbornness (or with the entertainment value to your teammates.)<div>To a lesser degree, your teammates can become complicit in your strategy.  </div>

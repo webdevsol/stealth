@@ -1,0 +1,1 @@
+<div>No science here in stealth racing.  <br></div><div>You have to take someone's word that they are right about the science.</div><div>Stealth racing is math.</div><div>Everyone who does the math correctly comes up with the same answer.</div>

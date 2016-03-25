@@ -1,0 +1,1 @@
+<div>For the sprinter who is reluctant to run these longer "sprints," stealth racing offers a more pleasant way to adjust to these potentially "painful" races.</div><div>It usually takes four or five races to "install" this new gear.</div><div>Give yourself the time while your body finds its "groove."</div>

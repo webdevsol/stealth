@@ -1,0 +1,1 @@
+The natural runner is a lot more panicky because it is much more difficult to pass on an indoor track.<div>The natural runner is prone to start much too fast&nbsp;because of the fear of getting "stuck" in the back.</div>

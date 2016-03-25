@@ -1,0 +1,1 @@
+In the 45 to 50 second range&nbsp;you can still be considered&nbsp;stealth if you can keep your last half within a&nbsp;second&nbsp;of your&nbsp;first half.<div>We are talking mostly 400 meter races at this point.</div><div>Very, very few 400 meter runners do this.</div><div>Some 400 meter hurdle runners do this out of necessity.</div>

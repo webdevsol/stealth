@@ -1,0 +1,1 @@
+In this situation, the stealth&nbsp;racer will catch his&nbsp;competitors&nbsp;later, but open up bigger gaps after the pass.<div>The stealth racer should&nbsp;be aware of this, because&nbsp;his teammates&nbsp;can&nbsp;cash in big if tipped off to this phenomena.</div>

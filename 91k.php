@@ -1,0 +1,1 @@
+Psychological tactics involve using the natural instincts of the natural runner against him.<div>This involves focusing on what he will SEE, because he is ruled by it.</div>

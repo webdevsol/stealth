@@ -1,0 +1,1 @@
+To get the correct slow down on any uphill, picture the entire remainder of the race at that slope.<div>If you are a mile from the finish, picture a mile long hill to the finish and race at that pace.</div><div>That mental picture should get you to slow down to the correct pace for that hill.</div>

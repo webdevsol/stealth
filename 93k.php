@@ -1,0 +1,1 @@
+In longer races, this depends on what stage of "coma" the natural runner has put himself into.

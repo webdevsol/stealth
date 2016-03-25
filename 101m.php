@@ -1,0 +1,1 @@
+Most important of all, an even&nbsp;pace&nbsp;is NOT something that you SETTLE INTO.<div>It is a very gradual ACCELERATION&nbsp;of&nbsp;effort&nbsp;as you face gradually&nbsp;INCREASING&nbsp;fatigue to maintain your even pace.</div>

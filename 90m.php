@@ -1,0 +1,1 @@
+This is the simplest (and the&nbsp;best) wording of the strategy to attempt&nbsp;your first stealth race.<div>There is a lot of information in this website, but you can't race well with an overloaded brain.</div>

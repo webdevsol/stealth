@@ -1,0 +1,1 @@
+It is the natural trap to the natural runner to experience this "zoning out."<div>This occurrence is revealed only when he "wakes up" at the sight of the finish line.</div><div>He goes from plodding&nbsp;runner to sprinter in two seconds flat.</div><div>Despite the cheers from the crowd, this is NOT a good thing.</div>

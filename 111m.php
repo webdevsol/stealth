@@ -1,0 +1,1 @@
+Let me explain why this is an important distinction during&nbsp;the beginning of a race.<div>You may have already experienced this type of scenario:</div>

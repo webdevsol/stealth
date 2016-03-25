@@ -1,0 +1,1 @@
+The NATURAL&nbsp;runner will naturally take these pre-race comments and want to IMMEDIATELY, at the start, show that he has gotten the message.<div>He will usually push his too&nbsp;fast&nbsp;start&nbsp;LONGER&nbsp;than he would in a less&nbsp;important race.</div>

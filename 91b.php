@@ -1,0 +1,1 @@
+The shape of the track can vary.<div>It can be an oval with long straightaways and shorter&nbsp;sharper turns.</div><div>It can be an oval with short straightaways with gradual sweeping curves.</div><div>It can be a rectangle with rounded corners.</div><div>It can even be a combination of the these.</div>

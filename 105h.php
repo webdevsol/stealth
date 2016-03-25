@@ -1,0 +1,1 @@
+No one falls asleep experiencing the "bungee jump" of running a stealth race.<div>The apparent "falling behind" quickly at the start, and more than making up for it during&nbsp;the rest of the race, leaves no place for "sleep."</div>

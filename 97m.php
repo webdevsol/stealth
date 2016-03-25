@@ -1,0 +1,1 @@
+There are a number of reasons for this.<div>Being too fast is difficult to correct.</div><div>Being too slow is easy to correct.</div><div>Also, starting too slow hurts your performance only HALF&nbsp;as much as starting too fast.</div>

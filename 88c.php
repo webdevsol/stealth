@@ -1,0 +1,1 @@
+This is where I confess that what I mean by "even pace" is an&nbsp;even energy output.<div>In cross&nbsp;country races and road races you often have to negotiate hills.</div><div>On flat tracks, of course, your even energy output equals even pace.</div>

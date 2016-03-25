@@ -1,0 +1,1 @@
+Oh, and you might need an "excuse" prepared.<div>The coach might want an explanation.</div><div>Talk loud, it takes quite a while for a crowd to quiet down.</div>

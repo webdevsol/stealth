@@ -1,0 +1,1 @@
+If you do find yourself in the lead (or a qualifying position) in the final stretch, it makes sense to veer toward the outside lanes&nbsp;so that it is easier for you&nbsp;to spot someone moving up from behind.

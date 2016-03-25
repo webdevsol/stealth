@@ -1,0 +1,1 @@
+<div>The stealth racer now knows&nbsp;that his strategy is safely concealed behind the&nbsp;optical illusion.</div><div>His strategy remains hidden in plain sight when people describe his "tactic" in&nbsp;completely&nbsp;opposite terms when he employs the same stealth strategy.</div>

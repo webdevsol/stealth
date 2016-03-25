@@ -1,0 +1,1 @@
+<div>Second big rule of stealth racing:  <br></div><div>IGNORE YOUR COMPETITORS!</div><div>ESPECIALLY at the start!</div>

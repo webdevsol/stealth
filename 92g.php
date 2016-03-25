@@ -1,0 +1,1 @@
+You could get him involved.<div>Have him do the math (divide your best time into four equal quarters).</div><div>Have him hold the watch and record your&nbsp;split times.<div>Frequently, this alone will "enlighten" the coach.</div><div>He may become your biggest fan and collaborator.</div>  </div>

@@ -1,0 +1,1 @@
+Race pace feels "wrong" at the start of a race.<div>It's too SLOW.</div><div>It's too easy.</div><div>Often, it looks bad.</div>

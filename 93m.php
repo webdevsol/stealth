@@ -1,0 +1,1 @@
+Once again, stealth racing is math.<div>When running your first stealth race, it is important to get early&nbsp;feedback on pace.</div><div>Get it at 100 meters where you can correct pacing mistakes quickly.</div>

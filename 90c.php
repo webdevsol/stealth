@@ -1,0 +1,1 @@
+The stealth runner resists the urge.<div>Why throw in a surge of effort in the middle of your race?</div><div>Unless you have a very specific reason for blowing out a lot of your very precious energy, don't do it.</div><div>After all, in a race, WHAT ELSE DO YOU HAVE BUT YOUR ENERGY?</div>

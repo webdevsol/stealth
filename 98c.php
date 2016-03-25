@@ -1,0 +1,1 @@
+Unlike running uphill, there is an art to running downhill.<div>Speed is an asset when you really let go on a downhill.</div><div>If you have limited speed, you can experiment with longer and longer strides.</div><div>You may have the leg strength to handle faster&nbsp;descents that way.</div>

@@ -1,0 +1,1 @@
+<div>The stealth racer knows he did the same thing he always does:  <br></div><div>Run an even pace to an ALL&nbsp;OUT&nbsp;performance.</div><div>It was the other runners (the pack) who did something different.</div><div>It was the behavior&nbsp;of the MANY (the pack) that&nbsp;changed the look of the strategy of the ONE (you).</div>

@@ -1,0 +1,1 @@
+There is a limit to the usefulness of practicing the pace.<div>You need to race to learn how to race.</div><div>You are not going to be exact on your pace anyway, so know that it is better&nbsp;to be too slow on your start than to be too fast.</div>

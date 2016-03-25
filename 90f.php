@@ -1,0 +1,1 @@
+A quick anecdote:<div>Two high school freshman girls about to race their first 400 meter race&nbsp;say, "What do we do, what do we do?"</div>

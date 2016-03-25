@@ -1,0 +1,407 @@
+@import "compass/utilities";
+@import "compass/css3";
+
+$trans: 0.45;
+$subscribecolor: #E7A910;
+$aboutcolor: #6EA93A;
+$contactcolor: #019FDB;
+$textshadow: #666;
+
+@font-face {
+	font-family: 'ColaborateRegular';
+	src: url('../fonts/colaborate/ColabReg-webfont.eot');
+	src: url('../fonts/colaborate/ColabReg-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/colaborate/ColabReg-webfont.woff') format('woff'),
+	url('../fonts/colaborate/ColabReg-webfont.ttf') format('truetype'),
+	url('../fonts/colaborate/ColabReg-webfont.svg#colaborate-regularregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+$font: 'ColaborateRegular', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+*{
+	font-family: $font;
+}
+
+body{
+	font-family: $font;
+}
+
+.slide{
+	@include clearfix();
+	float:left;
+}
+
+.parallax-size-cover{
+	@include background-size(cover);
+	background-position: center bottom;
+}
+
+.parallax-repeat{
+	background-repeat: repeat;
+}
+
+.parallax-overlay{
+	@include background-image(url('../gfx/noise.png'));
+}
+
+.parallax-container{
+	display: none;
+}
+
+.wrap{
+	@include clearfix();
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	display: none;
+
+	.slide{
+		@include clearfix();
+	}
+
+	.subscribe{
+		background-color: rgba($subscribecolor, $trans);
+	}
+
+	.about{
+		background-color: rgba($aboutcolor, $trans);
+	}
+
+	.contact{
+		background-color: rgba($contactcolor, $trans);
+	}
+
+	.signwrap{
+		@include clearfix();
+		display: block;
+		cursor: pointer;
+	}
+
+	.sign{
+		@include clearfix();
+		margin: auto;
+		text-align: center;
+
+		.icon{
+			@include clearfix();
+			font-size: 32px;
+			@include border-radius(32px);
+			border: 3px solid #fff;
+			color: #fff;
+			width: 64px;
+			height: 64px;
+			line-height: 58px;
+			text-align: center;
+			margin: auto;
+		}
+
+		.iconhover{
+			color: #f9f9f9;
+		}
+
+		.icondesc{
+			@include clearfix();
+			text-align: center;
+			font-size: 12px;
+			line-height: 12px;
+			display: none;
+			color: #fff;
+			margin: auto;
+			margin-top: 20px;
+		}
+	}
+
+	.section {
+		@include clearfix();
+		visibility: hidden;
+		display: none;
+
+		.closebtnwrap{
+			margin-bottom: 20px;
+		}
+
+		.closebtn{
+			@include clearfix();
+			@include border-radius(24px);
+			@include text-shadow($textshadow 0 1px 0);
+			display: block;
+			float: right;
+			width: 48px;
+			height: 48px;
+			line-height: 48px;
+			font-size: 16px;
+			text-align: center;
+			cursor: pointer;
+			color: #fff;
+		}
+	}
+
+	h3, h4, h5{
+		@include text-shadow($textshadow 0 1px 0);
+		font-family: $font;
+	}
+
+	.subscribe{
+		color: #fff;
+
+		.closebtn{
+			background-color: $subscribecolor;
+		}
+
+		.closebtn:hover{
+			background-color: darken($subscribecolor, 3%);
+		}
+
+		input{
+			@include box-shadow(none);
+			border: 1px solid darken($subscribecolor, 3%);
+			border-right: 0;
+		}
+
+		.btn_subscribe{
+			@include background-image(none);
+			background-color: darken($subscribecolor, 3%);
+			color: #fff;
+			@include text-shadow(none);
+			border: 1px solid darken($subscribecolor, 8%);
+			border-left: 0;
+			@include box-shadow(none);
+		}
+
+		.clock{
+			@include clearfix();
+			display: block;
+			margin: auto;
+
+			.point{
+				@include clearfix();
+				float: left;
+				margin: 0 20px 0 0;
+				margin: 0 4% 0 0;
+				width: 21%;
+				@include background-image(url(../gfx/noise.png));
+				@include border-radius(6px);
+
+				.pvalue{
+					@include clearfix();
+					display: block;
+					font-size: 42px;
+					line-height: 42px;
+					color: #fff;
+					text-align: center;
+					@include text-shadow($textshadow 0 1px 0);
+					padding: 4px 0 0 0;
+				}
+
+				.ptext{
+					@include clearfix();
+					color: #fff;
+					text-align: center;
+					font-size: 14px;
+					@include text-shadow($textshadow 0 1px 0);
+					padding: 8px 0 8px 0;
+				}
+			}
+
+			.pdays{
+				background-color: darken($subscribecolor, 8%);
+				border: 1px solid darken($subscribecolor, 9%);
+			}
+
+			.phours{
+				background-color: darken($subscribecolor, 6%);
+				border: 1px solid darken($subscribecolor, 7%);
+			}
+
+			.pminutes{
+				background-color: darken($subscribecolor, 4%);
+				border: 1px solid darken($subscribecolor, 5%);
+			}
+
+			.pseconds{
+				background-color: darken($subscribecolor, 2%);
+				border: 1px solid darken($subscribecolor, 3%);
+			}
+		}
+	}
+
+	.about{
+		color: #fff;
+
+		.closebtn{
+			background-color: $aboutcolor;
+		}
+
+		.closebtn:hover{
+			background-color: darken($aboutcolor, 3%);
+		}
+
+		i{
+			@include text-shadow(darken($aboutcolor, 8%) 0 1px 0);
+		}
+
+		.abouticon{
+			@include clearfix();
+			float: left;
+			width: 50px;
+			margin-top: 17px;
+			text-align: center;
+		}
+
+		.abouttext{
+			margin-left: 50px;
+		}
+	}
+
+	.contact{
+		color: #fff;
+
+		.closebtn{
+			background-color: $contactcolor;
+		}
+
+		.closebtn:hover{
+			background-color: darken($contactcolor, 3%);
+		}
+
+		#progress-bar{
+			background-color: rgba($contactcolor, 0.55);
+		}
+
+		.addressline {
+			@include clearfix();
+			height: 22px;
+			line-height: 22px;
+
+			.dicon{
+				display: block;
+				overflow: hidden;
+				width: 24px;
+				float: left;
+				text-align: center;
+			}
+
+			.dtext{
+				display: block;
+				overflow: hidden;
+				float: left;
+			}
+		}
+
+		.po, po:focus, po:hover{
+			box-shadow:none !important;
+			outline: none;
+			border: 1px solid #dadada;
+		}
+
+		.btn_send {
+			@include background-image(none);
+			background-color: darken($contactcolor, 3%);
+			color: #fff;
+			@include text-shadow(none);
+			border: 1px solid darken($contactcolor, 8%);
+			@include box-shadow(none);
+		}
+
+		label{
+			font-weight: normal;
+		}
+
+		a{
+			color: #fff;
+		}
+
+		.community {
+			display: block;
+			overflow: hidden;
+			height: 26px;
+			line-height: 26px;
+			font-size: 24px;
+			margin-top: 10px;
+
+			a{
+				height: 26px;
+				line-height: 26px;
+			}
+
+			i {
+				color: #fff;
+				cursor: pointer;
+				margin: 0 10px;
+				line-height: 26px;
+				font-size: 24px;
+				@include text-shadow(#555 0 1px 0);
+			}
+
+			i.hover{
+				color: $contactcolor;
+				@include text-shadow(lighten($contactcolor, 5%) 0 1px 0);
+			};
+
+			a:hover, a:active, a:focus{
+				text-decoration: none;
+			};
+		}
+	}
+}
+
+.progress{
+	display: none;
+}
+
+.msgbox{
+	display: none;
+}
+
+textarea{
+	resize: vertical;
+}
+
+.popover{
+	@include background-image(linear-gradient(#D14840, #B3332B));
+	background-color: #D14840;
+	font-size: 12px;
+	@include text-shadow(darken(#D14840, 10%) 0 1px 0);
+}
+
+.popover {
+	&.top .arrow {
+		border-top-color: #B3332B;
+		&:after {
+			border-top-color: #B3332B;
+		}
+	}
+}
+
+.popover-content{
+	padding: 5px 8px;
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+	.container{
+		padding: 30px;
+	}
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+	.container{
+		padding: 20px;
+	}
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+	.container{
+		padding: 10px;
+	}
+}

@@ -1,0 +1,1 @@
+First quarter - easy&nbsp;striding<div>Second quarter - start exerting some effort</div><div>Third quarter - time to go to work</div><div>Fourth quarter - gradually increasing pain</div>

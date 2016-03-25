@@ -1,0 +1,1 @@
+The fastest runner is not chasing anyone, his pace is not so bad.<div>He has no VISIBLE rabbit taunting him to go any faster.</div><div>As you go further back in the pack, the temptation&nbsp;gets more pronounced, the effect accumulates.</div>

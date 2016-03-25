@@ -1,0 +1,1 @@
+Since&nbsp;it takes a lot of energy to go a little faster, you also save a lot of energy by going a little slower.<div>With stealth racing, you can enjoy a more relaxed race, with a more even flow in the use of your energy.</div>

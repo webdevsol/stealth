@@ -1,0 +1,1 @@
+<div>A race ends at the finish line, NOT&nbsp;when someone gets caught.<br></div><div>It's NOT as if there is a quarterback in the infield ready to hit your competitor with a game-ending touchdown pass.</div><div>This fear of losing contact&nbsp;leads to the WORST&nbsp;tactic to the stealth racer.</div>

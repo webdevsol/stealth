@@ -1,0 +1,1 @@
+When you think about it, what you are trying to accomplish appears quite&nbsp;difficult.<div>You want an even pace, and at the finish&nbsp;you want an "empty tank."</div><div>You don't have a speedometer.</div><div>You don't have a fuel gauge.</div>

@@ -1,0 +1,1 @@
+<div>You begin&nbsp;first ignoring other runners&nbsp;when they start too fast.  <br></div><div>They almost always start too fast.<br><div>The surprise happens when they start too slow.</div>  </div>

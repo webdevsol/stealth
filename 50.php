@@ -1,0 +1,1 @@
+<div>The "stealth" in stealth racing happens at this point.  <br></div><div>What point?</div><div>When a race goes out slow.</div>

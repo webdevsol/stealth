@@ -1,0 +1,1 @@
+The best description of the&nbsp;mindset of the stealth racer is:<div>IT IS LIKE&nbsp;RUNNING&nbsp;A TIME TRIAL WHILE A RACE IS GOING ON.</div>

@@ -1,0 +1,1 @@
+<div>A constant fatigue level equals a gradually slowing pace.</div><div>Most runners rush out to an "appropriate" fatigue level (runners don't want to be accused of loafing) and stay at that fatigue level.</div><div>Everyone slows down together.</div><div>They don't realize they're slowing.</div><div>Then it is a mad dash when the finish is in sight.</div>

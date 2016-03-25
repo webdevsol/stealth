@@ -1,0 +1,1 @@
+<div>If everyone else is too chickenshit to lead the race, the stealth racer doesn't care.  <br></div><div>The stealth racer has a pace to run.</div><div>The stealth racer will&nbsp;take&nbsp;the lead.</div>

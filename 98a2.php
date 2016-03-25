@@ -1,0 +1,1 @@
+Third, it depends where on the track this is happening.<div>On a long straightaway ---&nbsp;no problem.</div><div>On a short straightaway ---&nbsp;a bit of a problem.</div><div>On a gradual turn ---&nbsp;a problem.</div><div>On a short&nbsp;sharp turn ---&nbsp;a big problem.</div>

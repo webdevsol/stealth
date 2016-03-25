@@ -1,0 +1,1 @@
+Physical tactics are&nbsp;a matter of where you place your body on the track, and what speed you run once you've placed it there.<div>These tactics&nbsp;come into play when you want to control a race for your benefit.</div><div>They are more important on indoor tracks than on outdoor tracks.</div><div>This is done by running up front.</div>

@@ -1,0 +1,1 @@
+When it's time to go, the stealth racer can accelerate to a pace he can maintain to the finish.<div>Most&nbsp;of his pursuers will be too worn out to keep up.</div>

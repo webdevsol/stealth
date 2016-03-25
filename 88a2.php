@@ -1,0 +1,1 @@
+Races that last anywhere between 40 and 60 seconds.

@@ -1,0 +1,1 @@
+It is not the collision-impact-sharp-searing kind of pain.<div>It is the self-inflicted, pillow-over-your-face, I'm-dying-but-I'll-never-give-up, keep-going-going-going, kind of pain.</div>

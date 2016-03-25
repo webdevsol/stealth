@@ -1,0 +1,1 @@
+It is frequently&nbsp;at this point that his&nbsp;coach will&nbsp;yell&nbsp;at him.<div>If he speeds up as a result, all the better for your amusement.</div><div>He will soon slow way down.</div><div>He already blew his race with a fast start.</div><div>He CAN'T&nbsp;fix that, fatigue is REAL.</div>

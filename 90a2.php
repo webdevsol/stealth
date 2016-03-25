@@ -1,0 +1,1 @@
+For the stealth racer, this is the transition zone between sprinting a race and pacing a race.

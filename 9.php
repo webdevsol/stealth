@@ -1,0 +1,1 @@
+<div>Half of those who CAN&nbsp;do it will STOP&nbsp;doing it.&nbsp;</div>

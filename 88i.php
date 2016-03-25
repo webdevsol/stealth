@@ -1,0 +1,1 @@
+The stealth strategy is to go from the start line&nbsp;to the finish line with the most efficient use of all your energy.<div>This should produce your best time.</div><div>This is the basis from which all stealth racing begins.</div><div><div>Other runners are just obstacles in&nbsp;your pursuit that are fairly easy to negotiate.</div>  </div>

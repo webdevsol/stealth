@@ -1,0 +1,1 @@
+It happens so fast, it's almost a recipe&nbsp;for hypnosis!<div>The bigger the race, the louder the pep talk from the coach, the higher the adrenaline level&nbsp;goes, and&nbsp;the deeper the "coma" the athlete is thrust into once the race gets going.</div>

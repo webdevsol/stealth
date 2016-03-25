@@ -1,0 +1,1 @@
+Since runners have actually died&nbsp;running distance races, caution is recommended the longer&nbsp;the race and the hotter the temperature.

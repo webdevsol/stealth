@@ -1,0 +1,1 @@
+Sometimes the strategy involves getting a "good enough"&nbsp;result with the least amount of exertion (like&nbsp;racing qualifying heats to advance to the final).

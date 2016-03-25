@@ -1,0 +1,1 @@
+Racers would rather feel bad (fatigued on a fast start) than look bad (even if their slow pace is fast enough to win the race).<div>For them, it is easier to push themselves even if they are tired, than too restrain themselves when they feel like going faster.</div><div>The "discipline" of pace is usually of a completely opposite&nbsp;nature.</div>

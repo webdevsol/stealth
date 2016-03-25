@@ -1,0 +1,1 @@
+<div>It WILL make for an easier an more enjoyable racing&nbsp;career (however long it lasts)&nbsp;if you resist the urge to risk your health&nbsp;when you get into some duel in that one race that you think&nbsp;is so important.</div>

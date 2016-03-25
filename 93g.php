@@ -1,0 +1,1 @@
+If he insists on trusting what he sees (an optical illusion), you may have to "tweak" your pace a bit (start a little too fast)&nbsp;so as not to alarm him.<div>It will probably&nbsp;disrupt your comfort more than it will actually hinder your performance.</div>

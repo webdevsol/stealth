@@ -1,0 +1,1 @@
+The stealth racer times it so that he hits the fatigue level later.<div>He can push through the fatigue level HARDER because he pushes for a shorter time.</div><div>His greatest fatigue occurs when he is passing natural runners quickly.</div><div>Great fatigue is no problem&nbsp;when they&nbsp;are like&nbsp;dying rabbits&nbsp;in front of him.</div>

@@ -1,0 +1,1 @@
+<div>It's after the race when the stealth racer finds out his strategy is safe.  <br></div><div>Spectators say, "Wow, you looked strong out there! &nbsp;You looked confident. &nbsp;You took command of the race and just pulled away.&nbsp; That's not like you usually race. &nbsp;You usually just sit in back and try to run people down."</div>

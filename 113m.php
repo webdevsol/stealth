@@ -1,0 +1,1 @@
+So you "pop" off the starting line, sprint to the front of the pack, and settle in&nbsp;(let's say this is a relatively&nbsp;fast high school girl).<div>But you lead the other runners through the first lap in 34 seconds.</div><div>You think, "Great! &nbsp;I can do it this time!"</div>

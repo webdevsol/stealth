@@ -1,0 +1,1 @@
+He quickly gets to an acceptable level of fatigue and stays at that level of exertion.<div>He finds an acceptable runner&nbsp;to follow and focuses on his&nbsp;back.</div><div>He&nbsp;goes from near&nbsp;panic, to feeling the same, and seeing the same thing, in about one minute flat.</div>

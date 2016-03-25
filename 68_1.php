@@ -1,0 +1,1 @@
+Once again, it takes an increasing effort to maintain an even pace.<div>Even pace during a race is a COMPLETELY DIFFERENT&nbsp;rhythm.</div><div>A&nbsp;CONSTANT&nbsp;fatigue level equals a gradually SLOWING pace.</div><div>THAT&nbsp;is the rhythm of the NATURAL&nbsp;runner.</div>

@@ -1,0 +1,1 @@
+As I said before, whenever possible, ignore your competitors, especially at the start.<div>For some runners competitors are&nbsp;the WHOLE purpose of racing.</div><div>Beat the other guy.</div><div>For others, ignoring competitors&nbsp;relieves them of pressure.</div><div>Just run your own race.&nbsp; Try to&nbsp;run a personal best.</div>

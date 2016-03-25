@@ -1,0 +1,1 @@
+What runners need are the unnatural habits of consistency and patience.<div>Running a race is a sport.<div>It is not an arena for martyrdom.</div>  </div>

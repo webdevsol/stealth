@@ -1,0 +1,1 @@
+When the natural runner runs his "own" race, it&nbsp;usually involves&nbsp;following&nbsp;someone and then speeding up at some point.<div>"Running his own race" really means running SOMEONE&nbsp;ELSE'S&nbsp;race until he&nbsp;feels like doing something different.</div>

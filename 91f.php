@@ -1,0 +1,1 @@
+I say, "When the gun goes off, you follow them. &nbsp;When they slow down, you&nbsp;go around them."

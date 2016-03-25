@@ -1,0 +1,1 @@
+Most long sprinters are terrified of getting behind in an indoor race because they think it is too hard to pass.<div>The stealth racer knows that starting a race a little slower is a problem.</div><div>Starting a LOT slower (even pace) is no problem at all.</div><div>Let me explain why.</div>

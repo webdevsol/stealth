@@ -1,0 +1,1 @@
+When you get back to the slowest runner who may be 50% slower than the fastest runner, he is usually NOT starting 50% slower.<div>He is usually starting only 20% slower.</div><div>This, by definition, is way too fast for the slower runners,&nbsp;even though they ALREADY look slow.</div>

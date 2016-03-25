@@ -1,0 +1,1 @@
+Usually around the back stretch of the third lap&nbsp;is where the pack begins to slow.<div>That's where you might&nbsp;throw in a&nbsp;surge to move up to first or second.</div><div>You can surge because you have the energy in reserve&nbsp;from slowing that start down 2 seconds.</div>

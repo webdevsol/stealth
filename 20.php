@@ -1,0 +1,1 @@
+<div>If asked if you are a stealth racer, just give them some lame answer that will make&nbsp;them go away:</div><div>"No,&nbsp;I got lucky."</div><div>"I've got to learn to race better than&nbsp;that."</div><div>Most people are clueless, it doesn't take much to keep them that way.</div>

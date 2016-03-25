@@ -1,0 +1,1 @@
+My definitions for strategy and tactics.

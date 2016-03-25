@@ -1,0 +1,1 @@
+Usually the natural runner doesn't do the math.<div>Moving out seven lanes (seven meters) on a 100-meter straightaway doesn't add seven meters to your distance to the finish line, it adds only ten inches.</div><div>I think it's the&nbsp;Pythagorean Theorem that would&nbsp;say, "It's worth it, use it."</div><div>I told you stealth racing was math.</div>

@@ -1,0 +1,1 @@
+Don't panic about how slow it is.<div>It won't seem slow at all when the other runners start dying in front of you.</div><div>(Some reduce themselves to walking.)</div>

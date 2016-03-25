@@ -1,0 +1,1 @@
+He doesn't stealth race because he can't SEE even pace.<div>He follows other runners because he CAN see THEM.</div><div>But he is at the mercy of guessing what those other runners will&nbsp;do.</div>

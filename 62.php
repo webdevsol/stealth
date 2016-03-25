@@ -1,0 +1,1 @@
+Remember, 10% faster equals TWICE the fatigue.<div>Even 5% can get a little ugly (3 seconds per minute).</div><div>Why make yourself more tired when it's not even helping your performance?</div>

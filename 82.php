@@ -1,0 +1,1 @@
+Natural&nbsp;runners are ruled by what they SEE.<div>They would rather FEEL bad (tired) than LOOK bad (trailing in back.)</div><div>Stealth racers focus on what they feel.</div><div>It is information.</div><div>It is the&nbsp;one&nbsp;sense&nbsp;that isn't&nbsp;controlled by the other runners.</div>

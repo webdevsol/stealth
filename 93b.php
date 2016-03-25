@@ -1,0 +1,1 @@
+The stealth racer has no such fear.<div>He enjoys the comfort of striding his race pace efficiently and unhindered (and usually in back, going the shortest distance in lane 1.)</div><div>His fellow competitors are his rabbits, ready to be picked off at his convenience.</div>

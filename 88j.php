@@ -1,0 +1,1 @@
+Stealth racing strategy often makes the use of tactics unnecessary.<div>A definition for tactics is needed that will keep them useful.<div>Since stealth racing involves the most efficient use of your energy, and by now you are in the habit of ignoring your competitors:</div>  </div>

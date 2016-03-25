@@ -1,0 +1,1 @@
+Going forward from an approximate 2:23 or 2:22, the stealth racer with extra anticipation, relaxation, and confidence,&nbsp;can click a few&nbsp;more seconds off.<div>Maybe just run 17.5s all the way.<br><div>Maybe that 2:20&nbsp;will happen after&nbsp;all.  </div>  </div>

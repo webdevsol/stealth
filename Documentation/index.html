@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Documentation :: Salad - Responsive Coming Soon Page</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="Djordje Zeljic">
+
+	<!-- Le styles -->
+	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+	<link href="assets/css/prettify.css" rel="stylesheet">
+	<style type="text/css">
+	 body {
+			padding-top: 20px;
+			padding-bottom: 40px;
+		}
+
+		/* Custom container */
+		.container-narrow {
+			margin: 0 auto;
+			max-width: 700px;
+		}
+		.container-narrow > hr {
+			margin: 30px 0;
+		}
+
+		/* Main marketing message and sign up button */
+		.jumbotron {
+			margin: 60px 0;
+			text-align: center;
+		}
+		.jumbotron h1 {
+			font-size: 60px;
+			line-height: 1;
+		}
+		.jumbotron .btn {
+			font-size: 21px;
+			padding: 14px 24px;
+		}
+
+		/* Supporting marketing content */
+		.marketing {
+			margin: 60px 0;
+		}
+		.marketing p + h4 {
+			margin-top: 28px;
+		}
+
+		#myCarousel{
+			width: 590px;
+			margin: auto;
+		}
+	</style>
+	<link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+
+	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+</head>
+
+<body data-spy="scroll" id="top">
+
+	<div class="container-narrow">
+
+		<div class="masthead">
+			<ul class="nav nav-pills pull-right">
+				<li><a href="#top">Top</a></li>
+				<li><a href="#install">Installation</a></li>
+				<li><a href="#setup">Setup</a></li>
+				<li><a href="#features">Features</a></li>
+				<li><a href="#credits">Credits</a></li>
+			</ul>
+			<h3 class="muted" id="top">Documentation</h3>
+		</div>
+
+		<hr>
+
+		<div class="jumbotron">
+			<h1>Salad - Responsive Coming Soon Page</h1>
+			<div style="text-align: center; margin-bottom: 20px;">
+
+				<div id="myCarousel" class="carousel slide">
+					<ol class="carousel-indicators">
+						<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+						<li data-target="#myCarousel" data-slide-to="1"></li>
+						<li data-target="#myCarousel" data-slide-to="2"></li>
+						<li data-target="#myCarousel" data-slide-to="3"></li>
+					</ol>
+					<!-- Carousel items -->
+					<div class="carousel-inner">
+						<div class="active item"><img src="assets/img/preview1.jpg" /></div>
+						<div class="item"><img src="assets/img/preview2.jpg" /></div>
+						<div class="item"><img src="assets/img/preview3.jpg" /></div>
+						<div class="item"><img src="assets/img/preview4.jpg" /></div>
+					</div>
+					<!-- Carousel nav -->
+					<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+					<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+				</div>
+
+			</div>
+			<a class="btn btn-large btn-success" href="#install">Installation</a>
+			<p class="lead" style="margin-top: 10px;">
+				Salad Template is fully responsive, simple, clean and mobile friendly coming soon page with nice countdown timer, parallax background, subscribe form and contact form.<br />
+				Its build based on Twitter Bootstrap, so it has many features.<br >
+				It is easy to install and customize. In general, you can create unlimited number of themes with our Compass/SASS Script.
+				Salad Template is compatible with all major browsers on desktop, tablets and smartphone devices!<br />
+				Don’t forget to rate if you enjoy the product!
+			</p>
+		</div>
+
+		<hr>
+
+		<div class="">
+			<h1 id="install">1. Installation</h1>
+			<p>
+				Copy next files and directory to your root directory.<br />
+				To run Salad Template your host just needs PHP 5.0 or later.
+			<p>
+			 <pre>/index.html
+/assets <i>directory</i>
+/subscribe.php
+/mailer.php</pre>
+		</div>
+
+		<hr>
+
+		<div class="">
+			<h1 id="setup">2. Setup</h1>
+			<p>
+				To change logo image just replace current image with yours in same size.<br />
+				Logo image is located at <i>assets/gfx/logo.png</i>.<br />
+			</p>
+
+			<table class="table table-bordered table-striped">
+				<thead>
+					<tr>
+						<th>File</th>
+						<th style="width: 50px;">#</th>
+						<th>Property</th>
+						<th>Description</th>
+					</tr>
+				</thead>
+				<tbody>
+
+					<tr>
+						<td>index.html</td>
+						<td>line 20</td>
+						<td><i>countdownDate</i></td>
+						<td>Counterdown limit date in format yyyy/mm/dd HH:ii:ss (2013/06/24 23:45:00)</td>
+					</tr>
+
+					<tr>
+						<td>index.html</td>
+						<td>line 21</td>
+						<td><i>animeTime</i></td>
+						<td>Time duration for all animations on page</td>
+					</tr>
+
+					<tr>
+						<td>index.html</td>
+						<td>line 22</td>
+						<td><i>openAtInit</i></td>
+						<td>Auto-Open one of your panels (Subscribe, About or Contact)</td>
+					</tr>
+
+					<tr>
+						<td>index.html</td>
+						<td>line 23</td>
+						<td><i>initTimeout</i></td>
+						<td>Wait before auto-open one of your panels</td>
+					</tr>
+
+					<tr>
+						<td>index.html</td>
+						<td>line 24</td>
+						<td><i>initPanelToOpen</i></td>
+						<td>Panel to open on startup - can be "subscribe", "about" or "contact"</td>
+					</tr>
+
+					<tr>
+						<td>core.scss</td>
+						<td>line 4</td>
+						<td><i>trans</i></td>
+						<td>Opacity value for all panels (0-1) eg 0.75</td>
+					</tr>
+
+					<tr>
+						<td>core.scss</td>
+						<td>line 5</td>
+						<td><i>subscribecolor</i></td>
+						<td>Color for subscribe panel</td>
+					</tr>
+
+					<tr>
+						<td>core.scss</td>
+						<td>line 6</td>
+						<td><i>about</i></td>
+						<td>Color for about panel</td>
+					</tr>
+
+					<tr>
+						<td>core.scss</td>
+						<td>line 7</td>
+						<td><i>contact</i></td>
+						<td>Color for contact panel</td>
+					</tr>
+
+					<tr>
+						<td>core.scss</td>
+						<td>line 7</td>
+						<td><i>textshadow</i></td>
+						<td>Color for text shadows</td>
+					</tr>
+
+				</tbody>
+			</table>
+			<div>
+				<h3>2.1. How to change Color Theme?</h3>
+				<h4>Requirements</h4>
+				<ul>
+					<li>Ruby</li>
+					<li>Compass</li>
+					<li>SASS</li>
+				</ul>
+				<p>
+					<a href="http://www.ruby-lang.org/en/downloads/">Install ruby.</a><br />
+					<a href="http://compass-style.org/install/">How to install Compass and SASS</a><br />
+				</p>
+				<p>
+					Open file <em>/compass/sass/core.scss</em> and edit <i>color values</i> to your favorite colors.<br />
+					Open cmd/terminal, go to compass-style directory and compile new theme.
+				</p>
+				<pre>compass compile</pre>
+			</div>
+
+			<div>
+				<h3>2.2 How to change background parallax image</h3>
+				Open index.html file and edit <strong>line 31</strong>.
+			</div>
+
+			<div>
+				<h3>2.3. How to set subscribers list storage file?</h3>
+				<p>Open <i>subscribe.php</i> file and edit <strong>line 3</strong>.</p>
+				<pre>$file_name = 'subs.txt';</pre>
+				<p>If you want to receive email for every subscribsion, please uncomment <strong>line 42</strong> and enter your information</p>
+				<pre>@mail('your@email.com', 'New Item Added', 'Added email address: ' . $email);</pre>
+			</div>
+
+			<div>
+				<h3>2.4. How to set your / receiver email address?</h3>
+				<p>Open <i>mailer.php</i> file and edit <strong>line 3</strong>.</p>
+				<pre>$to_email = 'email@domain.com';</pre>
+			</div>
+
+		</div>
+
+		<hr />
+
+		<div>
+
+			<h1 id="features">3. Features</h1>
+			<ul>
+				<li><strong>Fully Responsive / Twitter Bootstrap 3.0</strong></li>
+				<li><strong>Unlimited Color Themes</strong></li>
+				<li><strong>Clean Parallax Effect</strong></li>
+				<li>Nice Countdown</li>
+				<li>AJAX Subscription Form with Validation</li>
+				<li>AJAX Contact Form with Validation</li>
+				<li>Social Links</li>
+				<li>Easy to Customize</li>
+				<li>Creative, Clean and Simple</li>
+				<li>Valid HTML5 / CSS3</li>
+				<li>Multi-Browser Support</li>
+				<li>Smooth Animations</li>
+				<li>Support Latest Bootstrap and jQuery</li>
+			</ul>
+
+		</div>
+
+		<hr />
+
+		<div>
+
+			<h1 id="credits">4. Credits</h1>
+			<ul>
+				<li><a href="http://jquery.com/">jQuery - 1.10.2</a></li>
+				<li><a href="http://www.fontsquirrel.com/fonts/Colaborate">Colaborate Font</a></li>
+				<li><a href="http://getbootstrap.com/">Bootstrap</a></li>
+				<li><a href="http://github.com/hilios/jquery.countdown">jQuery CountDown</a></li>
+			</ul>
+
+		</div>
+
+		<hr />
+
+		<div>
+
+			<h1 id="credits">5. Informations</h1>
+			<p>For all information and questions contact me via email: zeljic@gmail.com</p>
+
+		</div>
+
+		<div class="footer">
+			<p>&copy; Salad - Coming Soon Page 2013</p>
+		</div>
+
+	</div>
+
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="assets/js/jquery-1.10.1.min.js"></script>
+	<script src="assets/js/google-code-prettify/prettify.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/scripts.js"></script>
+</body>
+</html>

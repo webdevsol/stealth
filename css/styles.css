@@ -1,0 +1,120 @@
+.parallax-container {
+  overflow: hidden;
+  *zoom: 1;
+  display: block;
+  overflow: auto;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+.parallax-container .parallax-item {
+  display: block;
+  overflow: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.parallax-size-cover {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center bottom;
+}
+.parallax-repeat {
+  background-repeat: repeat;
+}
+.parallax-overlay {
+  background-image: url("../img/noise.png");
+}
+.wrap {
+  overflow: auto;
+  *zoom: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  width:100%;
+}
+.container{
+display:block;
+max-width:1170px;
+margin-top:50px;
+margin-left:auto;
+margin-right:auto;
+
+}
+.content{
+-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+border:4px solid white;
+padding:50px;
+font-size:1.5em;
+background-color:#333333;
+color:#CCCCCC;
+}
+.content div{
+margin-bottom:10px;
+}
+/* Large desktop */
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+  .container {
+    padding: 30px;    
+  }
+}
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+  .container {
+    padding: 20px;    
+  }
+}
+/* Landscape phones and down */
+@media (max-width: 480px) {
+  .container {
+    padding: 10px;   
+  }
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */                
+  .container {
+    padding: 10px; 
+    margin-top: 10px; 
+  }
+  .content {    
+    font-size:1.2em;
+  }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+/* Styles */          
+  .container {
+    padding: 10px;
+  }
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */    
+  .container {
+    padding: 10px;    
+    margin-top: 10px;     
+  }  
+  .content {    
+    font-size:1.2em;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+  .container {
+    padding: 10px;    
+    margin-top: 10px;   
+  }  
+  .content {    
+    font-size:1.2em;
+  }
+}

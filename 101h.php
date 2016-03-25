@@ -1,0 +1,1 @@
+Don't blame the runner, he's just doing what comes naturally.<div>He starts with&nbsp;pre-race jitters, an uncomfortable formation of "butterflies" in his gut.</div><div>Everyone lines up and some guy FIRES A GUN!</div><div><br></div>

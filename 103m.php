@@ -1,0 +1,1 @@
+Do your analyzing AFTER your race.<div>Otherwise, you could end up "riding the brake" and "pushing the accelerator" at the same time.</div><div>If you focus too much on your splits during the race, you can become tense and waste energy that way.</div>

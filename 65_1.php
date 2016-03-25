@@ -1,0 +1,1 @@
+First, you can't SEE even pace.<div>(Many refer to this as race pace. &nbsp;Somehow, almost all runners only run race pace in workouts, NOT in races.)<div>If you do even pace in a race, it looks WRONG.</div><div>It's scary.</div><div>It's too SLOW.</div><div>Especially at the start.</div>  </div>

@@ -1,0 +1,1 @@
+You are completely settled in to your rhythm, you are coming up to the halfway point at 400 meters, you are expecting to hear "68" (1:08, half of 2:16.)<div>Instead you hear "71!" (half of 2:22!)</div>

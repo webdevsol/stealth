@@ -1,0 +1,1 @@
+The stealth racer has&nbsp;no problem with leading the race because he&nbsp;has the&nbsp;intuition telling him&nbsp;what is happening behind him.<div>He's&nbsp;watched it so many times from in back that the racing habits of the other&nbsp;runners have become predictable.</div>

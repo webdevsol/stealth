@@ -1,0 +1,1 @@
+It is the "bungee jump" of race strategies.<div>You need to let go of everything familiar (the pace of the pack of other runners) and find that pace that you can maintain to the finish line.</div><div>The exhilaration of catching back up is just as breathtaking as the terror of falling behind.</div><div>No guts, no glory.</div>

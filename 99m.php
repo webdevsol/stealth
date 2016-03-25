@@ -1,0 +1,1 @@
+If your time is too slow, it is easy to increase your effort.<div>Your first split technically should be slower because you lose a few tenths during your acceleration from the fully stopped position on the starting line.</div><div>The other splits have a running start.</div>

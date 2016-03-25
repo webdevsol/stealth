@@ -1,0 +1,1 @@
+If he drafts off the leader, some runner may come up on his outside and block him in.<div>That runner (and others behind him) have the&nbsp;same strategy.</div><div>So he runs on the leader's outside shoulder to prevent being blocked, but gives up some of the draft, and runs a longer distance&nbsp;around the turns.</div>

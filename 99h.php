@@ -1,0 +1,1 @@
+One of the biggest failures in competition&nbsp;is completely avoided by stealth racing.<div>There is no place in the race to "zone out."</div><div>The stealth racer is&nbsp;not going to hear the coach yelling at him, "You fell ASLEEP out there!"</div>

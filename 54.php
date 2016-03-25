@@ -1,0 +1,1 @@
+<div>This usually results in everyone chasing the stealth racer, waiting for him to die (that means slow down for those of you who are new to running lingo.)  <br></div><div>But it's usually ONLY&nbsp;the stealth racer who knows that to maintain an even pace requires a GRADUALLY INCREASING&nbsp;effort.</div>

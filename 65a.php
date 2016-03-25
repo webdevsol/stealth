@@ -1,0 +1,1 @@
+For some runners starting slow just sets them on a course for a slow race.<div>A stealth race is a race with a TOTALLY different rhythm.</div><div>It starts easy, but very gradually gets more strenuous as more effort is required to keep the pace up.</div>

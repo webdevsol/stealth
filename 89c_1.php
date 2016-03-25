@@ -1,0 +1,1 @@
+The natural runner usually is very uncomfortable with the idea of slowing down on the uphill.<div>All it takes is his&nbsp;coach just saying, "Attack the hills," and the natural runner won't think twice.</div>

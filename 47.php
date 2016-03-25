@@ -1,0 +1,1 @@
+<div>What does the fastest runner (at that moment) and everyone who is chasing him have to do with YOU getting to the finish line in the least amount of time?  <br></div><div>Your best chance for success is to NOT make the same mistake as&nbsp;everyone else, which is chasing someone faster than you.</div>

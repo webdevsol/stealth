@@ -1,0 +1,1 @@
+Outdoor 400 meters? &nbsp;Do whatever&nbsp;you want.<div>They almost always run it in lanes.</div><div>Nobody else can affect your performance if you ignore them.</div><div>So ignore them.&nbsp;Pace how&nbsp;you want to pace.</div><div>Find the&nbsp;rhythm that produces your best time.</div>

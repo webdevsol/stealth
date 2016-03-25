@@ -1,0 +1,1 @@
+Tactics&nbsp;involves sacrificing small amounts of your energy to get your competitor to sacrifice large amounts of his.<div>Get him to run wide on turns.</div><div>Get him to accelerate and decelerate.</div><div>Get him to panic.</div><div>Even if you can beat him anyway, slow him down for your teammates to pick off.</div>

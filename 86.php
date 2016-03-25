@@ -1,0 +1,1 @@
+I will now give you EIGHT factors to consider when you enter any race.<div>They should give you some clue as to what you are getting yourself into when you run a stealth race.</div><div>This should reveal most mistakes of the natural runner.</div><div>After all, isn't that how we all get started?</div><div>As natural runners?</div>

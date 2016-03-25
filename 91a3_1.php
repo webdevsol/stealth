@@ -1,0 +1,1 @@
+These are the races (a little less so for the 800 meters,)&nbsp;that when paced evenly, make you look like JV junior high athlete at the start, and Olympic sprinter&nbsp;at the end, (even though you are not finishing any faster than when you start.)

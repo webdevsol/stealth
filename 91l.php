@@ -1,0 +1,1 @@
+These tactics are more important in longer races.<div>They deal with the fact that fatigue and pain are REALITIES that MUST be dealt with.</div><div>This seems to be a reality that natural runners want to pretend doesn't exist.</div>

@@ -1,0 +1,1 @@
+With bigger crowds of runners, there is usually a subconscious elevation of everyone's adrenaline level.<div>It's "in the air."<br><div>These&nbsp;"butterflies" alone&nbsp;almost always cause&nbsp;the natural runner&nbsp;to start&nbsp;faster than his already too&nbsp;fast start.</div>  </div>

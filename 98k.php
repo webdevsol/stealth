@@ -1,0 +1,1 @@
+In the later stages of the race,&nbsp;the comatose natural runner may awaken and realize he has some energy left&nbsp;(a slow enough pace will produce physical recovery).<div>You can pass him slow (let him keep sleeping), pass him fast (don't let him even think about trying to keep up), or maybe just swing wide (he might not even&nbsp;notice you).</div>

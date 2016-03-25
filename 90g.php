@@ -1,0 +1,1 @@
+Dealing with a coach is not too different from dealing in the future (or in the present) with a boss.<div>Most coaches are reasonable but diplomacy sure helps.</div><div>You need to figure out what&nbsp;approach works with your coach.</div>

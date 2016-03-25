@@ -1,0 +1,1 @@
+Isn't every race that is not a sprint an exercise in pain&nbsp;tolerance?<div>The longer the race, the more glaringly apparent this facet of racing becomes.</div>

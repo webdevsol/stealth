@@ -1,0 +1,1 @@
+<div>The strategy&nbsp;is simple.  <br></div><div>Everyone knows it.</div><div>Almost no one does it</div><div>They just think that they do it.</div>

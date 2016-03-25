@@ -1,0 +1,1 @@
+So save your energy and&nbsp;run even splits.<div>Just don't panic when they leave you in the dust at&nbsp;the start.<div>You WON'T&nbsp;have to catch them, THEY&nbsp;will come back to YOU&nbsp;at an alarming rate.<div>Just don't hit them.</div>  </div>  </div>

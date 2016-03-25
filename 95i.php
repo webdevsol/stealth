@@ -1,0 +1,1 @@
+You can run race pace (for your best expected performance) until you are clear of who you need to beat, and then slow down as you look over your shoulder.

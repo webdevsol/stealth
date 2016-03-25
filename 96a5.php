@@ -1,0 +1,1 @@
+It really makes sense in longer races to run the first half slower, and the second half faster.  <div>Shortening your pain zone can be&nbsp;worth the small amount of time you might&nbsp;sacrifice from your performance.</div>

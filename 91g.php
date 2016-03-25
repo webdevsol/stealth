@@ -1,0 +1,1 @@
+Your coach may not care how you run your race.<div>Enjoy the freedom.<div>If he does have a reaction indicating that he would prefer that you didn't race the way that you did, you have options on how to proceed.</div></div>

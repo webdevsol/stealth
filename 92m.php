@@ -1,0 +1,1 @@
+The stealth racer is more focused on predicting his time accurately and dealing with reality.<div>If he underestimates his ability, he is in for a happy "accident."</div><div>(What? &nbsp;Having too big of a kick is some terrible disaster? &nbsp;He can recalculate for&nbsp;his next race.)</div>

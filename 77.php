@@ -1,0 +1,1 @@
+Let them go.<div>If they ARE that good, it doesn't make sense to destroy your race pretending to&nbsp;have abilities that you don't.</div><div>If they are NOT&nbsp;that good, you can take your shot when they go "bankrupt."</div>

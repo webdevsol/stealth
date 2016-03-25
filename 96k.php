@@ -1,0 +1,1 @@
+In the middle stages of the race, the comatose natural runner is more likely to be resigned to his condition.<div>However you pass him at this point is not likely to affect him at all.</div>

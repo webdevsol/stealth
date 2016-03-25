@@ -1,0 +1,1 @@
+<div>When did you ever hear racing described THAT way?<br></div><div><br></div><div>Stealth racing teaches you what is important in a race AND what is less important in a race.</div><div>The keys are mostly the same, it's the priorities that get mixed up.</div>

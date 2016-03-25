@@ -1,0 +1,1 @@
+So take your predicted time (in seconds)&nbsp;and divide it by the number of hundreds of meters that is the length of your race.<div>(Example: 5000 meters, divide by 50.)</div><div>If you can, it MAY be&nbsp;helpful to practice&nbsp;the feel of this tempo by timing it on a track.</div><div>In your particular case it may be an alert to how slow it is, maybe not.</div>

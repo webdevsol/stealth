@@ -1,0 +1,1 @@
+So instead of speed, you get information from your split times.<div>But, this is an important detail, splits do&nbsp;NOT&nbsp;indicate your CURRENT&nbsp;speed.</div><div>Splits indicate&nbsp;your AVERAGE&nbsp;speed over the length&nbsp;of the whole interval.</div>

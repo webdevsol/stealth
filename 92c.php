@@ -1,0 +1,1 @@
+In an effort to prove how tough he is, the natural runner ruins his race.<div>NEWS FLASH to all coaches and runners:</div><div>Everyone of us is tough!</div><div>Let me quote another t-shirt, "Our sport is your sport's punishment."</div>

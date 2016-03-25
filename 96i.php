@@ -1,0 +1,1 @@
+Or, if you like to keep the competition in front of you where you can see them, you can plot a negative-split stealth race where you run each split a little faster.

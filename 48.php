@@ -1,0 +1,1 @@
+<div>A lot of races are won by the runner who resists chasing the lead pack, when the early&nbsp;pace is too fast.  <br></div><div>The BEST way to beat a runner who is faster than you, is that&nbsp;you don't&nbsp;make mistakes that&nbsp;the other runner does.</div><div>Usually, that mistake is running too FAST, NOT&nbsp;running&nbsp;too SLOW.</div>

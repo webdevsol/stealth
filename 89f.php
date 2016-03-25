@@ -1,0 +1,1 @@
+Experience is a good teacher.<div>But&nbsp;experience&nbsp;usually&nbsp;gets you&nbsp;only&nbsp;half way there (or only half as fast.)</div>

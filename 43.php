@@ -1,0 +1,1 @@
+<div>The NATURAL use of running (chasing or fleeing) ends if someone gets caught,  <br></div><div>Either on the athletic field,</div><div>Or with a cheetah and a gazelle on the plains of Africa.</div>

@@ -1,0 +1,1 @@
+Just run an even race to an all out performance and get ready for the multiple reactions you will get from the crowd, the coach, your teammates, your family, and even from your competitors.<div>The reactions&nbsp;may not all be positive, but they can get LOUD.</div>

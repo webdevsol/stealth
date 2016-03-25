@@ -1,0 +1,1 @@
+Unlike an outdoor track, an indoor track can have varying lengths, degrees of banking, and&nbsp;shapes.

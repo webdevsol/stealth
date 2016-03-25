@@ -1,0 +1,1 @@
+The size of a race (number of competitors)&nbsp;usually affects the natural&nbsp;runner.<div>If&nbsp;there are physical restrictions to&nbsp;the beginning of the course (or track,)&nbsp;they&nbsp;can even induce a bit of panic.</div>

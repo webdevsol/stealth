@@ -1,0 +1,1 @@
+Have you heard the phrase "keeping up with the Joneses?"<div>It's a common trap in life to try to keep up appearances so that you don't look inferior compared to someone else.</div>

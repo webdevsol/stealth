@@ -1,0 +1,1 @@
+Most athletes are stuck in sprint mode at these distances even though they have no way of maintaining their pace.<div>They don't&nbsp;know any other&nbsp;way&nbsp;to compete.</div><div>They are the ultimate sitting ducks for the stealth racer.</div>

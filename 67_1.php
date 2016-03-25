@@ -1,0 +1,1 @@
+Everyone pushes themselves when they are tired.<div>Can you refrain from going faster when the best pace feels too slow?</div>

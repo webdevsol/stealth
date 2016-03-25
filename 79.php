@@ -1,0 +1,1 @@
+After a while, the stealth runner doesn't even have to see it, he just knows it.<div><div>The actions of the natural runner become all too predictable.</div><div>Predicting the mistakes of the natural runner&nbsp;endlessly entertains&nbsp;the stealth racer during his&nbsp;races.</div>  </div>

@@ -1,0 +1,1 @@
+You will enjoy this&nbsp;race because you&nbsp;will be relaxed, it will feel good, and it will be faster.<div>You will have made the transition from running a race expecting to be rewarded for your effort, to racing where you will be rewarded for the result.</div>

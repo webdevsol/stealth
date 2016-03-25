@@ -1,0 +1,1 @@
+But if he does speed up and beat you to the line, don't beat YOURSELF&nbsp;up.<div>In reality, he is a runner with greater ability than you who shouldn't have let you get so&nbsp;close in the first place.</div><div>Scaring the hell out of him is reward enough.</div>

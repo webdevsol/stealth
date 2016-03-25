@@ -1,0 +1,1 @@
+A stealth racer drains&nbsp;the tank.<div>When he hits the finish line he is on EMPTY.</div><div>The natural runner doesn't have this skill.</div><div>He hits fatigue sooner, he has to back off of his pace&nbsp;too early.</div>

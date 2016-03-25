@@ -1,0 +1,1 @@
+If you are sprinting all out, you will not run out of gas before 35 seconds if you are relaxed.<div>If you do run out of gas, it is because you are too&nbsp;tight.</div><div>Maybe&nbsp;you should NOT be sprinting.</div><div>Stealth racing is of no value in true sprint races.</div><div>However, it can be of great value if your races go just a little bit longer.</div>

@@ -1,0 +1,1 @@
+<div>If you think a race is ONLY&nbsp;a test of character and a measure of self worth, you will hate stealth racing.&nbsp;</div>
